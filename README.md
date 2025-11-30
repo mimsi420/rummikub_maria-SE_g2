@@ -21,6 +21,6 @@ and is built as a Visual Studio console application because it gives me access t
 + game.cpp / game.h (turn logic)</br>
 + main.cpp (keeps everything connected)</br>
 </br>
-**Rulebook**
+**Rulebook**</br>
 ***English:*** https://rummikub-apps.com/?cb=37 </br>
 ***Български:*** https://docs.google.com/document/d/15lznBTfavHPE_H3C1PSou3ugOU6sWv6-U47x1mbcqAs/edit?tab=t.0 </br>
