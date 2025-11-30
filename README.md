@@ -4,7 +4,7 @@ The project follows only the concepts taught in class (arrays, functions, pointe
 and is built as a Visual Studio console application because it gives me access to all the resources I need.
 </br>
 </br>
-**Plan for development:**
+**Plan for development:**</br>
 **1.** Tile engine (tile representation, shuffle, draw...)</br>
 **2.** Players (racks, drawing tiles, basic info)</br>
 **3.** Table (runs/groups)</br>
